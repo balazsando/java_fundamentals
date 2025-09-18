@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2025-09-16T22:00:04.144385Z</date>
+  <millis>1758060004144</millis>
+  <nanos>385000</nanos>
+  <sequence>0</sequence>
+  <logger>com.balazsando.logging.LogDemo</logger>
+  <level>INFO</level>
+  <class>com.balazsando.logging.LogDemo</class>
+  <method>alternativeLogging</method>
+  <thread>1</thread>
+  <message>My first log message</message>
+</record>
+<record>
+  <date>2025-09-16T22:00:04.155417Z</date>
+  <millis>1758060004155</millis>
+  <nanos>417000</nanos>
+  <sequence>1</sequence>
+  <logger>com.balazsando.logging.LogDemo</logger>
+  <level>INFO</level>
+  <class>com.balazsando.logging.LogDemo</class>
+  <method>alternativeLogging</method>
+  <thread>1</thread>
+  <message>Another message</message>
+</record>
+<record>
+  <date>2025-09-16T22:00:04.155685Z</date>
+  <millis>1758060004155</millis>
+  <nanos>685000</nanos>
+  <sequence>2</sequence>
+  <logger>com.balazsando.logging.LogDemo</logger>
+  <level>FINE</level>
+  <class>com.balazsando.logging.LogDemo</class>
+  <method>alternativeLogging</method>
+  <thread>1</thread>
+  <message>Fine message</message>
+</record>
+<record>
+  <date>2025-09-16T22:00:04.155803Z</date>
+  <millis>1758060004155</millis>
+  <nanos>803000</nanos>
+  <sequence>3</sequence>
+  <logger>com.balazsando.logging.LogDemo</logger>
+  <level>FINER</level>
+  <class>com.balazsando.logging.LogDemo</class>
+  <method>alternativeLogging</method>
+  <thread>1</thread>
+  <message>Finer message</message>
+</record>
+<record>
+  <date>2025-09-16T22:00:04.155912Z</date>
+  <millis>1758060004155</millis>
+  <nanos>912000</nanos>
+  <sequence>4</sequence>
+  <logger>com.balazsando.logging.LogDemo</logger>
+  <level>SEVERE</level>
+  <class>com.balazsando.logging.LogDemo</class>
+  <method>alternativeLogging</method>
+  <thread>1</thread>
+  <message>Ug oh!</message>
+</record>
+</log>
